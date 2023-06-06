@@ -1,4 +1,4 @@
-#MNIST_NUMPY
+# MNIST_NUMPY
 
 MNIST_NUMPY is a repository containing a python coded implementation of a feed forward neural network using NumPy. This implementation consists of a simple 2-layer neural network with 1 hidden layer containing 2048 neurons and an output layer with 10 neurons.
 
