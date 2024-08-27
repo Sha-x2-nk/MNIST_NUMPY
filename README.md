@@ -1,6 +1,6 @@
 # MNIST_NUMPY
 
-MNIST_NUMPY is a repository containing a python coded implementation of a feed forward neural network using NumPy. This implementation consists of a simple 2-layer neural network with 1 hidden layer containing 2048 neurons and an output layer with 10 neurons.
+MNIST_NUMPY is a repository containing a python coded implementation of a feed forward neural network using (JAX)NumPy. This implementation consists of a simple 2-layer neural network with 1 hidden layer containing 2048 neurons and an output layer with 10 neurons.
 
 The main purpose of this project was to gain a deeper understanding of backpropagation in neural networks and to implement it from scratch. The code only relies on two libraries: (JAX)NumPy and math.
 
@@ -10,6 +10,7 @@ By fine-tuning the dropout probability (pkeep) to an optimal value of 0.7315 usi
 
 ## Preformance
 | Device Type | Device Name | Kernels | Time taken (20 epochs) |
+|--|--|--|--|
 | CPU | Intel i7 12650H | NumPy | 3m 57s |
 | CPU | Intel i7 12650H | JAX (CPU) | 47s |
 | GPU | Nvidia RTX 3070Ti (Laptop) | JAX (CUDA) | 3.5 s |
