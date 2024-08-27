@@ -16,7 +16,9 @@ By fine-tuning the dropout probability (pkeep) to an optimal value of 0.7315 usi
 | GPU | Nvidia RTX 3070Ti (Laptop) | JAX (CUDA) | 3.5 s |
 
 ## Accuracy
-Best Validation Accuracy: 97.8
-Training Accuracy: 99.21
-Test Accuracy: 97.7
+| Dataset | Acc |
+| Validation set | 97.8 |
+| Train set | 99.21 |
+| Test set | 97.7 |
+
 Feel free to explore the code and experiment with different configurations to further enhance the performance of the neural network.
