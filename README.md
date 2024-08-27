@@ -13,7 +13,7 @@ By fine-tuning the dropout probability (pkeep) to an optimal value of 0.7315 usi
 |--|--|--|--|
 | CPU | Intel i7 12650H | NumPy | 3m 57s |
 | CPU | Intel i7 12650H | JAX (CPU) | 47s |
-| GPU | Nvidia RTX 3070Ti (Laptop) | JAX (CUDA) | 3.5 s |
+| GPU | Nvidia RTX 3070Ti (Laptop) | JAX (CUDA) | 1.9 s |
 
 ## Accuracy
 | Dataset | Acc |
