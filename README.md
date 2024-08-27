@@ -17,6 +17,7 @@ By fine-tuning the dropout probability (pkeep) to an optimal value of 0.7315 usi
 
 ## Accuracy
 | Dataset | Acc |
+|--|--|
 | Validation set | 97.8 |
 | Train set | 99.21 |
 | Test set | 97.7 |
